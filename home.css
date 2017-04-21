@@ -1,0 +1,128 @@
+body {
+  font-family: "Prima Nova", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#banner {
+  /*background-color: #2d3446;*/
+  border: 0;
+  border-bottom: 1px;
+  border-style: solid;
+  border-color: gray;
+  color: #9b1650;
+  font-size: 2em;
+  height: 15vh;
+  text-align: center;
+  width: 100%;
+}
+
+#banner-content {
+  background-color: white;
+  border: 1.5px;
+  border-radius: 1%;
+  border-style: solid;
+  margin: 0 auto;
+  width: 10vw;
+}
+
+#banner-padding {
+  height: 5vh;
+}
+
+#content {
+  color: rgb(50, 50, 50);
+  height: 80vh;
+  margin: 0 auto;
+  width: 60%;
+  border: 1.5px;
+  border-style: solid;
+  border-color: gray;
+  border-radius: 1%;
+}
+
+#content-container {
+  width: 100%;
+}
+
+#content-header {
+  border: 0px;
+  border-bottom: 1px;
+  border-color: #9b1650;
+  border-style: solid;
+  font-size: 1.5em;
+  margin: 0 auto;
+  padding-bottom: 5vh;
+  padding-top: 5vh;
+  text-align: center;
+  width: 80%;
+}
+
+#content-container-padding {
+  height: 10vh;
+  width: 100%;
+}
+
+#content-padding {
+  height: 10vh;
+}
+
+#content-paragraph {
+  font-size: 1.5em;
+  line-height: 2em;
+  margin: 1vh auto;
+  width: 80%;
+}
+
+#content2 {
+  color: white;
+  font-size: 1.5em;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.content2-col {
+  margin: 0;
+  padding: 0;
+  width: 47.5vw;
+}
+
+#content2-col1 {
+  float: left;
+  font-size: 1em;
+  text-align: right;
+}
+
+#content2-col1-left {
+  float: right;
+  font-size: .75em;
+  line-height: 1.5em;
+}
+
+#content2-col2 {
+  float: right;
+  font-size: 1em;
+  text-align: left;
+}
+
+#content2-col2-right {
+  float: left;
+  font-size: .75em;
+  line-height: 1.5em;
+}
+
+#content2-col-container {
+  margin: 0 auto;
+}
+
+
+#content2-container {
+  background-color: #9b1650;
+  color: white;
+  height: 80vh;
+  width: 100%;
+}
+
+#content2-padding {
+  height: 10vh;
+}
